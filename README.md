@@ -1,3 +1,4 @@
+**credit to chatgpt for this lol**
 ### 1. Curriculum Stages
 
 This table defines various stages in the curriculum, e.g., Key Stage 2, Key Stage 3.
